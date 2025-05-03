@@ -1,0 +1,18 @@
+{
+    "2507a282-15e0-4bf7-b043-adea9334209d": {
+        "id": "2507a282-15e0-4bf7-b043-adea9334209d",
+        "firstName": "mohamed",
+        "lastName": "ahmed",
+        "dateOfBirth": "1999-10-21",
+        "gender": "male",
+        "contactNumber": "1234",
+        "deviceId": "12345678",
+        "address": "1234",
+        "medicalHistory": "1234",
+        "allergies": "1324",
+        "currentMedications": "1234",
+        "registeredBy": "doctor@gmail.com",
+        "registeredAt": "2025-04-19T23:44:50.000942",
+        "ecgRecords": []
+    }
+}

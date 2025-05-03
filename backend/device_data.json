@@ -1,0 +1,13 @@
+{
+    "devices": [
+        {
+            "id": "dea4c518-17d5-401f-b5cd-2c9d782ab5e5",
+            "deviceId": "12345678",
+            "deviceName": "main",
+            "deviceType": "ecg",
+            "status": "active",
+            "createdAt": "2025-04-19T20:22:21.690251",
+            "createdBy": "admin@gmail.com"
+        }
+    ]
+}
